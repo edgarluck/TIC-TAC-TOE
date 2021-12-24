@@ -10,12 +10,12 @@ Un simple juego hecho en Python
 # Instalacion :
 
 
-apt update && apt upgrade -y
+$ apt update && apt upgrade -y
 
-pkg install python3 -y
+$ pkg install python3 -y
 
-git clone https://github.com/edgarluck/TIC-TAC-TOE.git
+$ git clone https://github.com/edgarluck/TIC-TAC-TOE.git
 
-cd TIC-TAC-TOE
+$ cd TIC-TAC-TOE
 
-python3 TICTAC.py
+$ python3 TICTAC.py

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # code by @EdgarLuck
 # git hub --> https://github.com/edgarluck
 #
